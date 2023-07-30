@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["link"],"type":["LinkWorkaround"]};

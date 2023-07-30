@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["EspWebSocketTransport","WebSocketClosingReason","WebSocketEventType"],"struct":["EspWebSocketClient","EspWebSocketClientConfig","EspWebSocketConnection","WebSocketEvent"]};

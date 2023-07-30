@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ReceiverData"],"struct":["AsyncAcceptor","AsyncReceiver","AsyncReceiverFuture","AsyncSender","ConnectionState","Processor","SharedAcceptorState","SharedReceiverState"]};

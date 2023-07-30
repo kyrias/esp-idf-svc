@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["EspNvs","EspNvsPartition","NvsCustom","NvsDefault"],"trait":["NvsPartitionId"],"type":["EspCustomNvs","EspCustomNvsPartition","EspDefaultNvs","EspDefaultNvsPartition"]};

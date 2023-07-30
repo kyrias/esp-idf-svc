@@ -1,0 +1,5 @@
+(function() {var implementors = {
+"embedded_io":[],
+"embedded_svc":[["impl&lt;R, W&gt; <a class=\"trait\" href=\"embedded_svc/io/trait.Error.html\" title=\"trait embedded_svc::io::Error\">Error</a> for <a class=\"enum\" href=\"embedded_svc/utils/io/enum.CopyError.html\" title=\"enum embedded_svc::utils::io::CopyError\">CopyError</a>&lt;R, W&gt;<span class=\"where fmt-newline\">where\n    R: <a class=\"trait\" href=\"embedded_svc/io/trait.Error.html\" title=\"trait embedded_svc::io::Error\">Error</a>,\n    W: <a class=\"trait\" href=\"embedded_svc/io/trait.Error.html\" title=\"trait embedded_svc::io::Error\">Error</a>,</span>"]],
+"esp_idf_svc":[["impl <a class=\"trait\" href=\"embedded_io/trait.Error.html\" title=\"trait embedded_io::Error\">Error</a> for <a class=\"struct\" href=\"esp_idf_svc/errors/struct.EspIOError.html\" title=\"struct esp_idf_svc::errors::EspIOError\">EspIOError</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

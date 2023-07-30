@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Blocking","RawBlocking","RawTrivialUnblocking","RawUnblocking","TrivialUnblocking","Unblocking"],"trait":["Blocker","Unblocker"]};

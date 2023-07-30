@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SessionError"],"fn":["get_cookie_session_id","set_cookie_session_id"],"struct":["SessionData","SessionImpl"],"trait":["Session"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["embassy_time"],"struct":["EspTimer","EspTimerService","Task"],"trait":["EspTimerServiceType"],"type":["EspTaskTimerService"]};

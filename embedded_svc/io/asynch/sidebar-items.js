@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ErrorKind","ReadExactError","SeekFrom"],"mod":["adapters","blocking"],"trait":["BufRead","Error","Io","Read","Seek","Write"],"type":["ReadExactFuture","RewindFuture","WriteAllFuture"]};

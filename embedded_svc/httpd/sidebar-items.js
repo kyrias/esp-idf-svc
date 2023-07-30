@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Body","Method","SessionState"],"mod":["app","registry","sessions"],"struct":["Error","Handler","Middleware","Request","Response"],"trait":["RequestDelegate"],"type":["BoxedMiddlewareHandler","Result","State","StateMap"]};

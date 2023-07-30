@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"esp_idf_svc":[["impl <a class=\"trait\" href=\"embedded_svc/ws/callback_server/trait.SenderFactory.html\" title=\"trait embedded_svc::ws::callback_server::SenderFactory\">SenderFactory</a> for <a class=\"enum\" href=\"esp_idf_svc/http/server/ws/enum.EspHttpWsConnection.html\" title=\"enum esp_idf_svc::http::server::ws::EspHttpWsConnection\">EspHttpWsConnection</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
